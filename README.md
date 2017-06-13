@@ -9,4 +9,4 @@ Your profile is connected to your Facebook account, including your photos and de
 
 Connect with all your matches by sending messages.
 
-Filter users in your feed by customizing your settings.
+Filter users in feed by customizing your settings, including the ability to set an age range and gender preference for other users.
